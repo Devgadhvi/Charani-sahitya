@@ -5,6 +5,9 @@
     <meta name="aurther" content="Dev-gadhvi">
     <meta name="keyword" content="Sahitya,sahitya,charan,gadhvi,gadhavi,bhajan,lyrics,">
     <title>Document</title>
+    <head>
+    <?php require_once 'includes/head.php'; ?>
+</head>
 </head>
 <body>
     

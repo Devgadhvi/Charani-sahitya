@@ -1989,7 +1989,7 @@ input::-webkit-input-placeholder {
     border-radius: 30px;
 }
 .header-style1 .site-header-inner{
-    position: relative;
+    position: static;
 }
 .header-style1 .site-header-inner #logo{
     margin: 28px 0 41px 0;

@@ -1,0 +1,11 @@
+.header{
+    background-color: #921A40;
+    height: 83px;
+}
+.logo .text-xl-start{
+    font-size: 2rem ;
+    color: #FFE3c4 ;
+}
+.header .header-menu .main-nav .menu > li > a {
+    color: #FFE3c4; 
+}

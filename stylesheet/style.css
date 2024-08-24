@@ -1299,6 +1299,8 @@ input::-webkit-input-placeholder {
 /*menu*/
 #logo {
     display: inline-block;
+    color: #FFE3c4 !important;
+    font-size: 2rem !important;
 }
 .main-nav .menu li{
     display: inline-block;

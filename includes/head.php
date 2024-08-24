@@ -18,5 +18,6 @@
     <link rel="stylesheet" href="stylesheet/owl.theme.default.min.css">
     <link rel="stylesheet" href="stylesheet/owl.carousel.min.css">
     <link rel="stylesheet" href="stylesheet/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="stylesheet/custom.css">
     
     <link href="icon/favicon.ico" rel="shortcut icon">

@@ -15,7 +15,7 @@
                     <!-- Slide 1 -->
                     <li data-transition="random">
                         <!-- Main Image -->
-                        <img src="images/header/02.png" alt="" data-bgposition="center center" data-no-retina>
+                        <img src="https://c4.wallpaperflare.com/wallpaper/578/919/794/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg" alt="" data-bgposition="center center" data-no-retina>
                         <div class="overlay"></div>
 
                         <!-- Layers -->
@@ -96,7 +96,7 @@
                     <!-- Slide 2 -->
                     <li data-transition="random">
                         <!-- Main Image -->
-                        <img src="images/header/03.png" alt="" data-bgposition="center center" data-no-retina>
+                        <img src="https://c4.wallpaperflare.com/wallpaper/578/919/794/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg" alt="" data-bgposition="center center" data-no-retina>
                         <div class="overlay"></div>
 
                         <!-- Layers -->

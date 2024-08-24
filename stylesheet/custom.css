@@ -12,6 +12,12 @@
 .input-group .form-control{
     border: none;
     background-color:#FFE3c4 ;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.input-group .input-group-append .btn{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 .input-group .form-controlv :hover{
     border: none;

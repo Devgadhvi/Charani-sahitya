@@ -9,14 +9,22 @@
 .header .header-menu .main-nav .menu > li > a {
     color: #FFE3c4; 
 }
+.input-group .form-control{
+    border: none;
+    background-color:#FFE3c4 ;
+}
+.input-group .form-controlv :hover{
+    border: none;
+    background-color:#FFE3c4 ;
+}
 .btn{
-    background-color: #921A40;
-    border-color: #FFE3c4;
+    background-color: #FFE3c4;
+    border: none;
 }
 .btn:hover{
-    background-color: #921A40;
-    border-color: #FFE3c4;
+    background-color: #FFE3c4;
+    border: none;
 }
 .fa{
-    color: #FFE3c4;
+    color: #921A40;
 }

@@ -9,3 +9,14 @@
 .header .header-menu .main-nav .menu > li > a {
     color: #FFE3c4; 
 }
+.btn{
+    background-color: #921A40;
+    border-color: #FFE3c4;
+}
+.btn:hover{
+    background-color: #921A40;
+    border-color: #FFE3c4;
+}
+.fa{
+    color: #FFE3c4;
+}

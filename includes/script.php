@@ -27,3 +27,20 @@
     <script src="rev-slider/js/extensions/extensionsrevolution.extension.parallax.min.js"></script>
     <script src="rev-slider/js/extensions/extensionsrevolution.extension.slideanims.min.js"></script>
     <script src="rev-slider/js/extensions/extensionsrevolution.extension.video.min.js"></script>
+    <!-- Custom script for all pages -->
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        var translateOptions = {
+            pageLanguage: 'gu', // Set default language to Gujarati
+            includedLanguages: 'en,hi,gu',
+            layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT
+        };
+
+        if ($(window).width() < 760) {
+            new google.translate.TranslateElement(translateOptions, 'google_translate_element_mobile');
+        } else {
+            new google.translate.TranslateElement(translateOptions, 'google_translate_element_desktop');
+        }
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

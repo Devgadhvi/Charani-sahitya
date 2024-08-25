@@ -13,6 +13,13 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     <nav id="main-nav" class="main-nav">
                         <ul class="menu">
                             <li>
+                                <!-- For Desktop -->
+                                <div id="google_translate_element_desktop"></div>
+
+                                <!-- For Mobile -->
+                                <div id="google_translate_element_mobile"></div>
+                            </li>
+                            <li>
                                 <div class="input-group input-group-sm mb-3p">
                                     <input type="text" class="form-control">
                                     <div class="input-group-append">

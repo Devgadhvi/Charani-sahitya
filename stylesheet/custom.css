@@ -56,3 +56,13 @@ a.menu-item:hover {
     color: #B02659;
     text-decoration: underline;
 }
+#google_translate_element_desktop {
+    color: transparent;
+}
+#google_translate_element_desktop a {
+display: none;
+}
+.goog-te-gadget {
+color: transparent !important;
+}
+  

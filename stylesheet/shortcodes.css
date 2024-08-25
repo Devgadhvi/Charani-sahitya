@@ -1062,13 +1062,13 @@
     visibility: hidden;
     cursor: pointer;
     overflow: hidden;
-    background: #3e3e3e;
+    background: #921A40;
 }
 #scroll-top:after {
     content: "\f106";
     font-family: 'Fontawesome';
     font-size: 20px;
-    color: #fff;
+    color: #FFE3c4;
 }
 #scroll-top:hover {
     background-color: #ffb922;
